@@ -1,0 +1,23 @@
+{
+  "name": "mock-eval",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivraj32644/Mock-Eval.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivraj32644/Mock-Eval/issues"
+  },
+  "homepage": "https://github.com/shivraj32644/Mock-Eval#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

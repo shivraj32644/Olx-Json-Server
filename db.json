@@ -1,0 +1,16 @@
+{
+    "admin": [
+      {
+        "image_url": "https://thumbs.dreamstime.com/z/open-book-1590467.jpg",
+        "book_name": "Learn Coding",
+        "author": "Author",
+        "genre": "Horror",
+        "edition": "1452",
+        "publisher": "Don't Know",
+        "cost": 4519,
+        "borrowed": false,
+        "id": 5
+      }
+    ]
+    
+  }
